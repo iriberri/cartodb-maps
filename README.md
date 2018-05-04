@@ -1,2 +1,2 @@
-cartodb-maps
+maps
 ============
